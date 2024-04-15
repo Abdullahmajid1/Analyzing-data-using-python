@@ -27,7 +27,6 @@ This repository contains Python scripts to clean raw CSV data. The cleaning proc
 7. **Saving Clean Data:**
    - Save the cleaned data to a new CSV file for further analysis.
 
-   ```
 
 ### Requirements:
 
@@ -38,9 +37,6 @@ This repository contains Python scripts to clean raw CSV data. The cleaning proc
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-### License:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments:
 
